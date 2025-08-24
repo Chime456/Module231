@@ -6,6 +6,8 @@ Tag 1
 Abc123 -> ca.1 sec  
 Açd*12kléDqRAD/6FJxF -> ca. 154000000 quadrillion Jahren
 
+Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen. Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann. Auf diesem (Link): [https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/] kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.
+
 
 ### Gruppenarbeit - Herausforderungen in der Digitalen Welt
 KI
