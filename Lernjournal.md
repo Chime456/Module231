@@ -44,3 +44,38 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 * Interne KI-Richtlinien einfrühren
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
+
+Schweizer Datenschutzgesetz
+
+
+# Lizenzmodelle
+
+### Lizenz
+
+
+
+**Warum kommt man auf die Idee, Lizenzen zu schaffen?**
+
+
+**Worauf gibt es alles Lizenzen ausser für Software?**
+
+
+**Machen Sie eine Aufzählung von Lizenzmodellen**
+
+
+**Was bedeutet "open source" und was kann man mit solcher Software machen?**
+
+
+**Was ist der Unterschied zwischen "copyright" und "copyleft"?**
+
+
+**Frage: Welches Lizenz-Modell wird angewendet, wenn man...**
+* ...im App-Store eine zu bezahlende App heunterlädt und installiert?
+* ...im App-Store eine Gratis-App heunterlädt und installiert?
+
+* Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben?
+  Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?
+
+
+
+
