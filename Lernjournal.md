@@ -63,25 +63,35 @@ TAG 2, 25.08.2025
   
 </details>
 
+<details>
+  <summary>Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?</summary>
+  
+</details>
 
-•Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?
+<details>
+  <summary>Welche Anforderungen sollte ein geeigneter Schweiz-Vertretermitbringen? Nennen Sie mindestens  drei.</summary>
+  
+</details>
 
+<details>
+  <summary>Welche Aufgaben hat ein Schweiz-Vertreter gemäß Artikel 15 des DSG?</summary>
+  
+</details>
 
-•Welche AnforderungensollteeingeeigneterSchweiz-Vertretermitbringen?NennenSie mindestensdrei.
+<details>
+  <summary>Wer haftet bei Datenschutzverstößen — der Verantwortliche oder der Schweiz-Vertreter? Und in welchem Verhältnis?</summary>
+  
+</details>
 
+<details>
+  <summary>Was regelt das Obligationenrecht (OR) in Bezug auf die vertragliche Beziehung zwischen Verantwortlichem und Schweiz-Vertreter?</summary>
+  
+</details>
 
-•Welche Aufgabenhat einSchweiz-VertretergemäßArtikel 15 des DSG?
-
-
-•Wer haftetbeiDatenschutzverstößen— der Verantwortlicheoderder Schweiz-Vertreter? Und in welchemVerhältnis?
-
-
-•Was regeltdas Obligationenrecht(OR) in Bezugauf die vertraglicheBeziehungzwischenVerantwortlichemund Schweiz-Vertreter?
-
-
-•Welche Bedeutunghat die Wahl einesfachlichund sprachlichgeeignetenSchweiz-Vertreters– insbesondereimHinblickauf die Reputation eines Unternehmens?
-
-
+<details>
+  <summary>Welche Bedeutung hat die Wahl eines fachlich und sprachlich geeigneten Schweiz-Vertreters – insbesondere im Hinblick auf die Reputation eines Unternehmens?</summary>
+  
+</details>
 
 -----
 
@@ -89,31 +99,28 @@ TAG 2, 25.08.2025
 
 ### Lizenz  
 Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.
-Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z. B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).
+Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z.B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).
 
 <details>
   <summary>Warum kommt man auf die Idee, Lizenzen zu schaffen?</summary>
 
-**Warum kommt man auf die Idee, Lizenzen zu schaffen?**  
-Lizenzen werden geschaffen, um:
-
 - Urheberrechte zu schützen (das geistige Eigentum des Entwicklers).
 
-- Einnahmen für Hersteller zu sichern (Geschäftsmodell).
+- Die Einnahmen für Hersteller zu sichern (Geschäftsmodell).
 
-- Regeln und Einschränkungen festzulegen, wie ein Produkt genutzt werden darf (z. B. kommerziell, privat, zeitlich begrenzt).
+- Regeln und Einschränkungen festzulegen, wie ein Produkt genutzt werden darf (kommerziell, privat, zeitlich begrenzt).
 
-- Missbrauch und Raubkopien einzuschränken.
-Ohne Lizenzen könnten Programme beliebig kopiert und genutzt werden – der Entwickler würde keinen Gegenwert erhalten.
+- Den Missbrauch und die Raubkopien einzuschränken. Ohne Lizenzen könnten Programme beliebig kopiert und genutzt werden – der Entwickler bekäme nichts dafür.
 </details>
 
 <details>
   <summary>Worauf gibt es alles Lizenzen ausser für Software?</summary>
   
-**Worauf gibt es alles Lizenzen ausser für Software?**  
 Lizenzen gibt es für viele Bereiche, z. B.:
 
 - Musik, Filme und Bücher (Streaming, E-Books).
+
+- Bilder, Fotos & Kunstwerke (Nutzungsrechte für Werbung, Webseiten, Produkte)
 
 - Patente und Markenrechte (z. B. Nutzung einer Technologie).
 
@@ -132,27 +139,39 @@ Lizenzen gibt es für viele Bereiche, z. B.:
   <summary>Machen Sie eine Aufzählung von Lizenzmodellen</summary>
 
 **Machen Sie eine Aufzählung von Lizenzmodellen**  
-- Perpetual License (Kauflizenz): Einmal zahlen, zeitlich unbegrenzt nutzen.
+- **Dauerlizenz/Unbefristet**: Einmal zahlen, unbegrenzt nutzen, gilt meist nur für eine bestimmte Version.
 
-- Subscription License (Abonnement): Nutzung gegen regelmäßige Zahlungen (monatlich/jährlich).
+- **Abonnenment-basierte Lizenz**: Nutzung gegen regelmäßige Zahlungen (monatlich/jährlich).
 
-- Floating/Concurrent License: Eine bestimmte Anzahl Nutzer darf gleichzeitig arbeiten.
+- **Floating/Concurrent Lizenz**: Eine bestimmte Anzahl Nutzer darf gleichzeitig arbeiten,
+  kostenpflichtige Firmenlizenz mit limitierter Nutzung
 
-- Named-User License: Eine Lizenz pro fest zugewiesenem Nutzer.
+- **Node-Locked/Named-User Lizenz**: Eine Lizenz pro fest zugewiesenem Nutzer, Lizenz an ein
+  bestimmtes Gerät gebunden, Nutzung nur auf einem Gerät erlaubt
+  
+- **Trial/Freeware**: Kostenlose oder Test-Version.
 
-- Device License: Lizenz ist an ein Gerät gebunden.
+- **Freemium**: Basisversion kostenlos, Premium-Funktionen kostenpflichtig.
 
-- Trial/Freeware: Kostenlose oder Test-Version.
+- **Usage-based Lizenz**: Abrechnung nach Nutzung (z. B. pro Transaktion oder Rechenzeit).
 
-- Freemium: Basisversion kostenlos, Premium-Funktionen kostenpflichtig.
-
-- Usage-based License: Abrechnung nach Nutzung (z. B. pro Transaktion oder Rechenzeit).
-
-- Feature-based License: Nur bestimmte Funktionen sind freigeschaltet, weitere müssen bezahlt
+- **Feature-based Lizenz**: Nur bestimmte Funktionen sind freigeschaltet, weitere müssen bezahlt
   werden.
 
-- Open-Source-Lizenz: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
+- **Copyleft/Open-Source-Lizen**z: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
   MIT).
+  
+- **Netzwerklizenzierung**: Für Umgebungen ohne stabilen Internetzugang, Verhindert Probleme bei
+  Lizenzüberwachung ohne Cloud, Nutzungskontrolle lokal im Netzwerk
+  
+- **Cloud-basierte Lizenzierung**: Zugriff von überall+jederzeit, Häufig mit Abo-Modellen
+  kombiniert, basiert oft auf bestehender Plattform oder als neues System → aber schwer
+  umwandelbar
+
+- **Public-Domain-Lizenz**: Software ohne Urheberrechtsschutz, Frei nutzbar, kopierbar,
+  veränderbar, weitergebbar, komplett frei und ohne Beschränkungen
+  
+- **Windows CAL (Client Access License)**: Berechtigt Nutzer oder Geräte zum Zugriff auf Windows-Server, Verwaltung oft komplex → Lizenzmanagement sinnvoll
   </details>
 
 <details>
@@ -161,7 +180,7 @@ Lizenzen gibt es für viele Bereiche, z. B.:
 **Was bedeutet "open source" und was kann man mit solcher Software machen?**  
 Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder darf den Code einsehen, verändern und weitergeben – unter Einhaltung der jeweiligen Lizenzbedingungen.
 
-Damit kann man:
+**Damit kann man:**
 
 - Die Software kostenlos nutzen.
 
@@ -176,27 +195,25 @@ Damit kann man:
   <summary>Was ist der Unterschied zwischen "copyright" und "copyleft"?</summary>
   
 **Was ist der Unterschied zwischen "copyright" und "copyleft"?**  
-Copyright: Klassisches Urheberrecht. Der Urheber behält alle Rechte und entscheidet, wer etwas nutzen darf.
+**Copyright**: Klassisches Urheberrecht. Der Urheber behält alle Rechte und entscheidet, wer etwas nutzen darf. Änderungen, Kopien oder Weitergabe sind stark eingeschränkt.
 
-Copyleft: Sonderform bei Open-Source-Software. Die Nutzung ist erlaubt, aber: Alle abgeleiteten Werke müssen unter denselben Bedingungen weitergegeben werden.
-- Beispiel: GPL-Lizenzen. Wer ein Programm verändert, muss seine Änderungen ebenfalls frei
-  veröffentlichen.
+**Copyleft**: Sonderform bei Open-Source-Software. Jeder darf Software frei nutzen, verändern und weitergeben. Aber: veränderte Versionen müssen unter denselben Bedingungen veröffentlicht werden. 
 </details>
 
 <details>
   <summary>Frage: Welches Lizenz-Modell wird angewendet, wenn man...</summary>
   
-* ...im App-Store eine zu bezahlende App heunterlädt und installiert?
-  Meist eine Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist
+* **...im App-Store eine zu bezahlende App heunterlädt und installiert?** 
+  Meist eine Node-Locked/Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist
   dauerhaft für Ihr Konto.
 
-* ...im App-Store eine Gratis-App heunterlädt und installiert?
+* **...im App-Store eine Gratis-App heunterlädt und installiert?**  
   Meist Freeware oder Freemium-Lizenz. Basisnutzung kostenlos, ggf. Werbung oder In-App-Käufe.
 
-* Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben?
-  Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?
-  Ja, Sie haben (indirekt) bezahlt. Betriebssystem (Android, iOS) und Standard-Apps sind im
-  Kaufpreis enthalten.  
+* **Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben?**  
+  Ich weiss es nicht mehr.
+  
+  **Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?**  
   Man bezahlt die Lizenz also beim Kauf des Geräts mit, auch wenn kein Extra-Preis sichtbar ist.  
   Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich
   im Abo-Modell.
