@@ -1,4 +1,10 @@
-# DATENSCHUTZ UND DATENSICHERHEIT ANWENDEN - TAG 1
+# DATENSCHUTZ UND DATENSICHERHEIT ANWENDEN
+Tag 1, 18.08.2025
+
+## Inhaltsverzeichnis
+- [Gruppenarbeit](#gruppenarbeit)
+- [LIZENZMODELLE](#lizenzmodelle)
+---
 
 **Wie lange braucht es um diese Passwörter zu knacken?**
 
@@ -8,7 +14,7 @@ Açd*12kléDqRAD/6FJxF -> ca. 154000000 quadrillion Jahren
 Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen. Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann. Auf diesem [Link](https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/) kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.
 
 
-### Gruppenarbeit - Herausforderungen in der Digitalen Welt
+## Gruppenarbeit
 *Thema: KI*  
 
 **Was ist KI?**
@@ -43,15 +49,50 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 * Interne KI-Richtlinien einfrühren
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
+-----
+## Schweizer Datenschutzgesetz
+TAG 2, 25.08.2025
 
-Schweizer Datenschutzgesetz
+<details>
+  <summary>Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?</summary>
+  
+</details>
+
+<details>
+  <summary>In welchenFällenmüssenVerantwortlichemitSitz imAusland einenSchweiz-Vertreterbenennen?</summary>
+  
+</details>
 
 
-# LIZENZMODELLE - TAG 2
+•Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?
+
+
+•Welche AnforderungensollteeingeeigneterSchweiz-Vertretermitbringen?NennenSie mindestensdrei.
+
+
+•Welche Aufgabenhat einSchweiz-VertretergemäßArtikel 15 des DSG?
+
+
+•Wer haftetbeiDatenschutzverstößen— der Verantwortlicheoderder Schweiz-Vertreter? Und in welchemVerhältnis?
+
+
+•Was regeltdas Obligationenrecht(OR) in Bezugauf die vertraglicheBeziehungzwischenVerantwortlichemund Schweiz-Vertreter?
+
+
+•Welche Bedeutunghat die Wahl einesfachlichund sprachlichgeeignetenSchweiz-Vertreters– insbesondereimHinblickauf die Reputation eines Unternehmens?
+
+
+
+-----
+
+## LIZENZMODELLE
 
 ### Lizenz  
 Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.
 Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z. B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).
+
+<details>
+  <summary>Warum kommt man auf die Idee, Lizenzen zu schaffen?</summary>
 
 **Warum kommt man auf die Idee, Lizenzen zu schaffen?**  
 Lizenzen werden geschaffen, um:
@@ -64,7 +105,11 @@ Lizenzen werden geschaffen, um:
 
 - Missbrauch und Raubkopien einzuschränken.
 Ohne Lizenzen könnten Programme beliebig kopiert und genutzt werden – der Entwickler würde keinen Gegenwert erhalten.
+</details>
 
+<details>
+  <summary>Worauf gibt es alles Lizenzen ausser für Software?</summary>
+  
 **Worauf gibt es alles Lizenzen ausser für Software?**  
 Lizenzen gibt es für viele Bereiche, z. B.:
 
@@ -81,6 +126,10 @@ Lizenzen gibt es für viele Bereiche, z. B.:
 - Markennamen und Logos (z. B. für Merchandising).
 
 - Gewerbe- und Betriebslizenzen (z. B. Restaurantkonzession).
+</details>
+
+<details>
+  <summary>Machen Sie eine Aufzählung von Lizenzmodellen</summary>
 
 **Machen Sie eine Aufzählung von Lizenzmodellen**  
 - Perpetual License (Kauflizenz): Einmal zahlen, zeitlich unbegrenzt nutzen.
@@ -104,7 +153,11 @@ Lizenzen gibt es für viele Bereiche, z. B.:
 
 - Open-Source-Lizenz: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
   MIT).
+  </details>
 
+<details>
+  <summary>Was bedeutet "open source" und was kann man mit solcher Software machen?</summary>
+  
 **Was bedeutet "open source" und was kann man mit solcher Software machen?**  
 Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder darf den Code einsehen, verändern und weitergeben – unter Einhaltung der jeweiligen Lizenzbedingungen.
 
@@ -117,15 +170,22 @@ Damit kann man:
 - Die Software weiterverteilen.
 
 - Eigene Projekte darauf aufbauen.
+</details>
 
+<details>
+  <summary>Was ist der Unterschied zwischen "copyright" und "copyleft"?</summary>
+  
 **Was ist der Unterschied zwischen "copyright" und "copyleft"?**  
 Copyright: Klassisches Urheberrecht. Der Urheber behält alle Rechte und entscheidet, wer etwas nutzen darf.
 
 Copyleft: Sonderform bei Open-Source-Software. Die Nutzung ist erlaubt, aber: Alle abgeleiteten Werke müssen unter denselben Bedingungen weitergegeben werden.
 - Beispiel: GPL-Lizenzen. Wer ein Programm verändert, muss seine Änderungen ebenfalls frei
   veröffentlichen.
+</details>
 
-**Frage: Welches Lizenz-Modell wird angewendet, wenn man...**  
+<details>
+  <summary>Frage: Welches Lizenz-Modell wird angewendet, wenn man...</summary>
+  
 * ...im App-Store eine zu bezahlende App heunterlädt und installiert?
   Meist eine Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist
   dauerhaft für Ihr Konto.
@@ -140,10 +200,4 @@ Copyleft: Sonderform bei Open-Source-Software. Die Nutzung ist erlaubt, aber: Al
   Man bezahlt die Lizenz also beim Kauf des Geräts mit, auch wenn kein Extra-Preis sichtbar ist.  
   Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich
   im Abo-Modell.
-
-<details>
-  <summary>**Click to show title**</summary>
-
-  ## My Hidden Title
-  Here is some text under the hidden title.
 </details>
