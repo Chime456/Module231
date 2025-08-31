@@ -3,6 +3,7 @@ Tag 1, 18.08.2025
 
 ## Inhaltsverzeichnis
 - [Gruppenarbeit](#gruppenarbeit)
+- [Schweizer Datenschutzgesetz](#schweizerdatenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
 ---
 
@@ -50,7 +51,7 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
 -----
-## Schweizer Datenschutzgesetz
+## Schweizer Datenschutzgesetz  
 TAG 2, 25.08.2025
 
 <details>
