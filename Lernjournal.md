@@ -1,6 +1,5 @@
-# Datenschutz und Datensicherheit anwenden-Module231
-Tag 1
---------
+# DATENSCHUTZ UND DATENSICHERHEIT ANWENDEN - TAG 1
+
 **Wie lange braucht es um diese Passwörter zu knacken?**
 
 Abc123 -> ca.1 sec  
@@ -48,91 +47,103 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 Schweizer Datenschutzgesetz
 
 
-# Lizenzmodelle
+# LIZENZMODELLE - TAG 2
 
-### Lizenz
+### Lizenz  
 Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.
 Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z. B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).
 
-**Warum kommt man auf die Idee, Lizenzen zu schaffen?**
+**Warum kommt man auf die Idee, Lizenzen zu schaffen?**  
 Lizenzen werden geschaffen, um:
 
-Urheberrechte zu schützen (das geistige Eigentum des Entwicklers).
+- Urheberrechte zu schützen (das geistige Eigentum des Entwicklers).
 
-Einnahmen für Hersteller zu sichern (Geschäftsmodell).
+- Einnahmen für Hersteller zu sichern (Geschäftsmodell).
 
-Regeln und Einschränkungen festzulegen, wie ein Produkt genutzt werden darf (z. B. kommerziell, privat, zeitlich begrenzt).
+- Regeln und Einschränkungen festzulegen, wie ein Produkt genutzt werden darf (z. B. kommerziell, privat, zeitlich begrenzt).
 
-Missbrauch und Raubkopien einzuschränken.
+- Missbrauch und Raubkopien einzuschränken.
 Ohne Lizenzen könnten Programme beliebig kopiert und genutzt werden – der Entwickler würde keinen Gegenwert erhalten.
 
-**Worauf gibt es alles Lizenzen ausser für Software?**
+**Worauf gibt es alles Lizenzen ausser für Software?**  
 Lizenzen gibt es für viele Bereiche, z. B.:
 
-Musik, Filme und Bücher (Streaming, E-Books).
+- Musik, Filme und Bücher (Streaming, E-Books).
 
-Patente und Markenrechte (z. B. Nutzung einer Technologie).
+- Patente und Markenrechte (z. B. Nutzung einer Technologie).
 
-Funkfrequenzen (z. B. Mobilfunkanbieter).
+- Funkfrequenzen (z. B. Mobilfunkanbieter).
 
-Medikamente (Herstellung und Vertrieb).
+- Medikamente (Herstellung und Vertrieb).
 
-Fahrerlaubnisse (Führerschein = Lizenz zum Autofahren).
+- Fahrerlaubnisse (Führerschein = Lizenz zum Autofahren).
 
-Markennamen und Logos (z. B. für Merchandising).
+- Markennamen und Logos (z. B. für Merchandising).
 
-Gewerbe- und Betriebslizenzen (z. B. Restaurantkonzession).
+- Gewerbe- und Betriebslizenzen (z. B. Restaurantkonzession).
 
-**Machen Sie eine Aufzählung von Lizenzmodellen**
-Perpetual License (Kauflizenz): Einmal zahlen, zeitlich unbegrenzt nutzen.
+**Machen Sie eine Aufzählung von Lizenzmodellen**  
+- Perpetual License (Kauflizenz): Einmal zahlen, zeitlich unbegrenzt nutzen.
 
-Subscription License (Abonnement): Nutzung gegen regelmäßige Zahlungen (monatlich/jährlich).
+- Subscription License (Abonnement): Nutzung gegen regelmäßige Zahlungen (monatlich/jährlich).
 
-Floating/Concurrent License: Eine bestimmte Anzahl Nutzer darf gleichzeitig arbeiten.
+- Floating/Concurrent License: Eine bestimmte Anzahl Nutzer darf gleichzeitig arbeiten.
 
-Named-User License: Eine Lizenz pro fest zugewiesenem Nutzer.
+- Named-User License: Eine Lizenz pro fest zugewiesenem Nutzer.
 
-Device License: Lizenz ist an ein Gerät gebunden.
+- Device License: Lizenz ist an ein Gerät gebunden.
 
-Trial/Freeware: Kostenlose oder Test-Version.
+- Trial/Freeware: Kostenlose oder Test-Version.
 
-Freemium: Basisversion kostenlos, Premium-Funktionen kostenpflichtig.
+- Freemium: Basisversion kostenlos, Premium-Funktionen kostenpflichtig.
 
-Usage-based License: Abrechnung nach Nutzung (z. B. pro Transaktion oder Rechenzeit).
+- Usage-based License: Abrechnung nach Nutzung (z. B. pro Transaktion oder Rechenzeit).
 
-Feature-based License: Nur bestimmte Funktionen sind freigeschaltet, weitere müssen bezahlt werden.
+- Feature-based License: Nur bestimmte Funktionen sind freigeschaltet, weitere müssen bezahlt
+  werden.
 
-Open-Source-Lizenz: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL, MIT).
+- Open-Source-Lizenz: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
+  MIT).
 
-**Was bedeutet "open source" und was kann man mit solcher Software machen?**
+**Was bedeutet "open source" und was kann man mit solcher Software machen?**  
 Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder darf den Code einsehen, verändern und weitergeben – unter Einhaltung der jeweiligen Lizenzbedingungen.
 
 Damit kann man:
 
-Die Software kostenlos nutzen.
+- Die Software kostenlos nutzen.
 
-Den Code verbessern oder anpassen.
+- Den Code verbessern oder anpassen.
 
-Die Software weiterverteilen.
+- Die Software weiterverteilen.
 
-Eigene Projekte darauf aufbauen.
+- Eigene Projekte darauf aufbauen.
 
-**Was ist der Unterschied zwischen "copyright" und "copyleft"?**
+**Was ist der Unterschied zwischen "copyright" und "copyleft"?**  
 Copyright: Klassisches Urheberrecht. Der Urheber behält alle Rechte und entscheidet, wer etwas nutzen darf.
 
 Copyleft: Sonderform bei Open-Source-Software. Die Nutzung ist erlaubt, aber: Alle abgeleiteten Werke müssen unter denselben Bedingungen weitergegeben werden.
-→ Beispiel: GPL-Lizenzen. Wer ein Programm verändert, muss seine Änderungen ebenfalls frei veröffentlichen.
+- Beispiel: GPL-Lizenzen. Wer ein Programm verändert, muss seine Änderungen ebenfalls frei
+  veröffentlichen.
 
-**Frage: Welches Lizenz-Modell wird angewendet, wenn man...**
+**Frage: Welches Lizenz-Modell wird angewendet, wenn man...**  
 * ...im App-Store eine zu bezahlende App heunterlädt und installiert?
-→ Meist eine Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist dauerhaft für Ihr Konto.
+  Meist eine Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist
+  dauerhaft für Ihr Konto.
 
 * ...im App-Store eine Gratis-App heunterlädt und installiert?
-→ Meist Freeware oder Freemium-Lizenz. Basisnutzung kostenlos, ggf. Werbung oder In-App-Käufe.
+  Meist Freeware oder Freemium-Lizenz. Basisnutzung kostenlos, ggf. Werbung oder In-App-Käufe.
 
 * Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben?
   Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?
-→ Ja, Sie haben (indirekt) bezahlt. Betriebssystem (Android, iOS) und Standard-Apps sind im Kaufpreis enthalten.
-→ Man bezahlt die Lizenz also beim Kauf des Geräts mit, auch wenn kein Extra-Preis sichtbar ist.
-→ Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich im Abo-Modell.
+  Ja, Sie haben (indirekt) bezahlt. Betriebssystem (Android, iOS) und Standard-Apps sind im
+  Kaufpreis enthalten.  
+  Man bezahlt die Lizenz also beim Kauf des Geräts mit, auch wenn kein Extra-Preis sichtbar ist.  
+  Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich
+  im Abo-Modell.
 
+<details>
+  <summary>**Click to show title**</summary>
+
+  ## My Hidden Title
+  Here is some text under the hidden title.
+</details>
