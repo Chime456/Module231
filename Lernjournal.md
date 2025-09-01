@@ -5,6 +5,7 @@ Tag 1, 18.08.2025
 - [Gruppenarbeit](#gruppenarbeit)
 - [Schweizer Datenschutzgesetz](#schweizerdatenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
+- [CIA TRIAD](#CIATRIAD)
 - [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](###ChecklistendesDatenschutzbeauftragtendesKantonsZürichs)
 ---
 
@@ -220,6 +221,28 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
   Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich
   im Abo-Modell.
 </details>
+
+------
+
+## CIA TRIAD
+Tag 3, 01.09.2025
+
+**C, Confidentiality**
+Vertraulichkeit:  
+* Unbefugte haben keinen Zugriff auf die Informationen  
+* Daraufhin dürfen sensible Daten lediglich nur von authorisierten Benutzern gelesen oder verändert werden.  
+**Beispiel**: Zum beispiel die Verschlüsselung von E-Mails. Da werden die Inhalte so umgewandelt, dass nur den Empfänger sie lesen kann, welche auch die sensible Daten vom unbefugtem Zugriff geschützt sind.
+
+**I, Integrity**
+Integrität:  
+* Es verhindert, dass die Informationen unbefugt modifiziert, manipuliert oder gelöscht werden. * Die Nutzer können sich darauf verlassen, dass die Information das repräsentiert, was ursprünglich eingegeben wurde.  
+**Beispiel**: Zum Beispiel Banktransaktionen, da werden die digitale Signaturen und Verschlüsselung eingesetzt. Das stellt sicher das die Transaktionen sicher und unverändert bleiben.
+
+**A, Availability**
+Verfügbarkeit:
+* Systeme, Anwendungen und Daten sollen immer verfügbar sein, wenn sie gebraucht werden – unabhängig davon, ob der Nutzer autorisiert ist oder nicht.
+* Es geht also hauptsächlich darum, Systemausfälle zu verhindern und den Zugriff innerhalb eines vereinbarten Zeitraums zu garantieren.  
+**Beispiel**: Zum Beispiel der Einsatz von Cloud-Diensten. Diese sorgen dafür, dass Daten und Anwendungen auch dann verfügbar bleiben, wenn ein Server ausfällt, da sie automatisch auf andere Server umleiten können.  
 
 ------
 
