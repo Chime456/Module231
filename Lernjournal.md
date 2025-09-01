@@ -99,7 +99,7 @@ TAG 2, 25.08.2025
 ## LIZENZMODELLE
 
 ### Lizenz  
-Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.
+Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.  
 Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z.B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).
 
 <details>
