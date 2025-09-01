@@ -159,7 +159,7 @@ Lizenzen gibt es für viele Bereiche, z. B.:
 - **Feature-based Lizenz**: Nur bestimmte Funktionen sind freigeschaltet, weitere müssen bezahlt
   werden.
 
-- **Copyleft/Open-Source-Lizen**z: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
+- **Copyleft/Open-Source-Lizen**: Quellcode ist frei zugänglich, Nutzung nach speziellen Regeln (z. B. GPL,
   MIT).
   
 - **Netzwerklizenzierung**: Für Umgebungen ohne stabilen Internetzugang, Verhindert Probleme bei
