@@ -224,7 +224,7 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 
 ## Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
-# Checkliste Computer-Sicherheit erhöhen
+**Checkliste Computer-Sicherheit erhöhen**
  - Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)
  - 01 Installieren Sie alle Updates
     - Ja, ich halte meine Geräte immer auf dem neusten Stand
@@ -248,13 +248,34 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
     - Kannte ich noch nicht, habe mir die Anleitung zum [Backup erstellen mit Windows](https://www.heise.de/tipps-tricks/Backup-erstellen-mit-Windows-10-3858841.html) gelesen. Jetzt weiss ich wie man daten abspeichert.
     - Ja, ich habe davon gehört und dies umgesetzt
   - 08 Daten verschlüsseln und löschen
-    - Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen
+    - Ich habe diese [Seite](https://www.heise.de/download/product/partedmagic-47255) besucht und gelese. Das werde ich machen wenn ich mit der Lehre Fertig bin.
   - 09 Administratorkonto nur bei Bedarf nutzen
-    - 
+    - Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen
   - 10 Unberechtigte Zugriffe verhindern
     - Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.
     - Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.
     - Das automatische Gerätesperren habe ich nicht davon gewusst, werde das einmal aktivieren und testen.
 
+**BYOD - für mehr Sicherheit**
 
+  - 01 Befolgen Sie die Arbeitgeberregeln
+    - Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.
+  - 02 Wählen Sie eine sichere Authentifizierung
+    - Ja, ich habe unterschiedliche starke Passwörter.
+  - 03 Sperren Sie das Gerät bei Abwesenheit
+    - Ja, ich sperre immer mein Gerät ab.
+  - 04 Aktualisieren Sie die Software
+    - Ja, ich halte meine Software immer auf dem neusten Stand.
+  - 05 Verschlüsseln Sie die Daten
+    - Ja, ich habe die Verschlüsselungsoption aktiviert.
+  - 06 Löschen Sie das Gerät bei Verlust sofort
+    - Bisher wurde mir noch kein Gerät gestohlen worden. Wenn doch weiss ich an wem ich mich wenden kann.
+  - 07 Sichern Sie die Daten
+    - Ja, ich sichere immer meine Daten.
+  - 08 Meiden Sie öffentliche WLAN
+    - Ja, ich meide öffentliche WLAN auch im Ausland.
+  - 09 Installieren und aktivieren Sie Antivirensoftware
+    - Ja, ich habe Antivierensoftware installiert und aktiviert.
+  - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen
+    - Ja, ich lade nur die offiziele App-Websiten herunter.
 
