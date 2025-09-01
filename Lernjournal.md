@@ -5,6 +5,7 @@ Tag 1, 18.08.2025
 - [Gruppenarbeit](#gruppenarbeit)
 - [Schweizer Datenschutzgesetz](#schweizerdatenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
+- [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](###ChecklistendesDatenschutzbeauftragtendesKantonsZürichs)
 ---
 
 **Wie lange braucht es um diese Passwörter zu knacken?**
