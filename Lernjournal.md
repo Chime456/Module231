@@ -219,3 +219,42 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
   Bei Updates oder Cloud-Diensten (z. B. iCloud, Google One) zahlt man ggf. später zusätzlich
   im Abo-Modell.
 </details>
+
+------
+
+## Checklisten des Datenschutzbeauftragten des Kantons Zürichs
+
+# Checkliste Computer-Sicherheit erhöhen
+ - Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)
+ - 01 Installieren Sie alle Updates
+    - Ja, ich halte meine Geräte immer auf dem neusten Stand
+ - 02 Schalten Sie die Firewall und den Virenschutz ein
+    - Ja, ich habe die aktiviert. 
+ - 03 Verwenden Sie starke Passwörter
+    - Ja, ich sichere lasse meine Passwörter von meinem Passwort-Manager generieren, diese sind sehr stark.
+    - Ja, ich habe die Passwörter im meinem Passwort-Manager verwaltet.
+ - 04 Schützen Sie sich vor Phishing und anderen Bedrohungen
+    - Nein, ich öffne keine verdächtige E-Mails oder SMS.
+    - Nein, ich öffne keine Anhänge von unbekannten Absendern.
+    - Nein, ich klicke auf keine unbekannten oder verdächtigen Links.
+    - Nein, ich kontaktiere normalerweise nie auch im Zweifelsfall nicht, da ich die Absender/-in blockiere oder melde.
+    - Ja, ich bin grundsätzlich misstrauisch, wenn sich bekannte melden und rufe nicht auf unbekannte Nummern zurück.
+  - 05 Sicher surfen
+    - Nein, kannte ich noch nicht, habe https://www.datenschutz.ch/meine-daten-schuetzen/firefox-browser-sicher-einstellen-2-2 besucht und mir angeschaut wie ich Chrome sicherstelle.
+    - Ja, ich lösche die temporäre Internetdateien regelmässig.
+  - 06 Datenschutzfreundliche Dienste nutzen
+    - Ich habe bis jetzt Google-Suche benutzt, werde DuckDuckGo mal verwenden
+  - 07 Daten sichern
+    - Kannte ich noch nicht, habe mir die Anleitung zum [Backup erstellen mit Windows](https://www.heise.de/tipps-tricks/Backup-erstellen-mit-Windows-10-3858841.html) gelesen. Jetzt weiss ich wie man daten abspeichert.
+    - Ja, ich habe davon gehört und dies umgesetzt
+  - 08 Daten verschlüsseln und löschen
+    - Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen
+  - 09 Administratorkonto nur bei Bedarf nutzen
+    - 
+  - 10 Unberechtigte Zugriffe verhindern
+    - Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.
+    - Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.
+    - Das automatische Gerätesperren habe ich nicht davon gewusst, werde das einmal aktivieren und testen.
+
+
+
