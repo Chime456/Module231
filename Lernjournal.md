@@ -224,7 +224,8 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 
 ## Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
-**Checkliste Computer-Sicherheit erhöhen**
+<details>
+<summary>Checkliste Computer-Sicherheit erhöhen</summary>
  - Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)
  - 01 Installieren Sie alle Updates
     - Ja, ich halte meine Geräte immer auf dem neusten Stand
@@ -255,8 +256,10 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
     - Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.
     - Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.
     - Das automatische Gerätesperren habe ich nicht davon gewusst, werde das einmal aktivieren und testen.
+</details>
 
-**BYOD - für mehr Sicherheit**
+<details>
+<summary>BYOD - für mehr Sicherheit</summary>
 
   - 01 Befolgen Sie die Arbeitgeberregeln
     - Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.
@@ -278,4 +281,5 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
     - Ja, ich habe Antivierensoftware installiert und aktiviert.
   - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen
     - Ja, ich lade nur die offiziele App-Websiten herunter.
+</details>
 
