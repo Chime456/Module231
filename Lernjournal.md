@@ -5,8 +5,8 @@ Tag 1, 18.08.2025
 - [Gruppenarbeit](#gruppenarbeit)
 - [Schweizer Datenschutzgesetz](#schweizerdatenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
-- [CIA TRIAD](#CIATRIAD)
-- [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](###ChecklistendesDatenschutzbeauftragtendesKantonsZürichs)
+- [CIA TRIAD](#ciatriad)
+- [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklistendesdatenschutzbeauftragtendeskantonszürichs)
 ---
 
 **Wie lange braucht es um diese Passwörter zu knacken?**
@@ -52,8 +52,11 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 * Interne KI-Richtlinien einfrühren
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
+
 -----
+
 ## Schweizer Datenschutzgesetz  
+
 TAG 2, 25.08.2025
 
 <details>
@@ -225,6 +228,7 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 ------
 
 ## CIA TRIAD
+
 Tag 3, 01.09.2025
 
 **C, Confidentiality**
@@ -306,6 +310,7 @@ Link: [BYOD - für mehr Sicherheit](https://www.datenschutz.ch/meine-daten-schue
   - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen  
     - Ja, ich lade nur die offiziele App-Websiten herunter.  
 </details>
+
 ---------
 
 ## MERMAID  
@@ -360,38 +365,37 @@ RSA Algorithmus
 Caesar Verschlüsselung (Verfahren)
 Geheimbotschaft übermitteln
 **2 Scheibe**
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6a01a97e-721f-409a-af1d-8b54a1e2a739" />
+
 Jeder Buchstabe wird um einer bestimmer Zahl verschoben.
 
-Bei der Methode von Julius Caesart sind 3 Buchstabe voraus. 
-__Beispiel__
-Klartext:        Ich liebe dich
-Geheimbotschaft: LFKOLHEHGLFK
+Bei der Methode von Julius Caesart sind 3 Buchstabe voraus.  
+__Beispiel_  
+Klartext:        Ich liebe dich  
+Geheimbotschaft: LFKOLHEHGLFK  
 
-Entschlüsselung: 3 Buchstabe zurück
-
-Online Banking kein Caeser Verschlüsselung,
-
+Entschlüsselung: 3 Buchstabe zurück  
 
 ### Vigenère Code
 
-**Tabelle darstellung**
-Zeile:  Klartext
-Spalte: Schlüsselwort
+**Tabelle darstellung**  
+Zeile:  Klartext  
+Spalte: Schlüsselwort  
 
 <img width="1558" height="863" alt="image" src="https://github.com/user-attachments/assets/646fc6f2-c002-4500-b4d9-0edb4dea02fa" />
 
 Der Buchstaben der sich kreuzt ist die Verschlüsselung
 
-SpionSpion
-Informatik 
-||||||||||
-QYXAEULLUX
+SpionSpion  
+Informatik  
+||||||||||  
+QYXAEULLUX  
 
-die Leertasten werden nicht gezählt und musss zusammengefasst werden
+Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 
-**Verschlüsselte Nachrichten mit Outlook**
-
-ISO File 
+**Verschlüsselte Nachrichten mit Outlook**  
+ISO File  
 
 
 
