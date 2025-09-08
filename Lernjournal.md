@@ -306,4 +306,48 @@ Link: [BYOD - für mehr Sicherheit](https://www.datenschutz.ch/meine-daten-schue
   - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen  
     - Ja, ich lade nur die offiziele App-Websiten herunter.  
 </details>
+---------
 
+## MERMAID  
+TAG 4,08.09.2025
+
+```mermaid
+mindmap
+  root((Authentifizierung))
+    Definition
+      Identifizierung
+      Authentifizierung
+      Autorisierung
+    Faktoren
+      Wissen
+        Passwort
+        PIN
+      Besitz
+        Token
+        Smartcard
+        Smartphone
+      Sein
+        Fingerabdruck
+        Gesichtserkennung
+        Iris-Scan
+    Verfahren
+      Einfaktor
+      Zwei-Faktor (2FA)
+      Multi-Faktor (MFA)
+    Beispiele
+      Login am PC
+      Online-Banking
+      Smartphone-Entsperrung
+    Trends
+      Passkeys
+      FIDO2
+      Biometrie
+  ```
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
