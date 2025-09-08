@@ -351,3 +351,51 @@ graph TD;
   B-->D;
   C-->D;
 ```
+
+**Verschlüsselungstechnologien**
+
+Zahlentheorie: Verschlüsselung im Internet
+RSA Algorithmus
+
+Caesar Verschlüsselung (Verfahren)
+Geheimbotschaft übermitteln
+**2 Scheibe**
+Jeder Buchstabe wird um einer bestimmer Zahl verschoben.
+
+Bei der Methode von Julius Caesart sind 3 Buchstabe voraus. 
+__Beispiel__
+Klartext:        Ich liebe dich
+Geheimbotschaft: LFKOLHEHGLFK
+
+Entschlüsselung: 3 Buchstabe zurück
+
+Online Banking kein Caeser Verschlüsselung,
+
+
+### Vigenère Code
+
+**Tabelle darstellung**
+Zeile:  Klartext
+Spalte: Schlüsselwort
+
+<img width="1558" height="863" alt="image" src="https://github.com/user-attachments/assets/646fc6f2-c002-4500-b4d9-0edb4dea02fa" />
+
+Der Buchstaben der sich kreuzt ist die Verschlüsselung
+
+SpionSpion
+Informatik 
+||||||||||
+QYXAEULLUX
+
+die Leertasten werden nicht gezählt und musss zusammengefasst werden
+
+**Verschlüsselte Nachrichten mit Outlook**
+
+ISO File 
+
+
+
+
+
+
+
