@@ -397,6 +397,35 @@ Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 **Verschlüsselte Nachrichten mit Outlook**  
 ISO File  
 
+--------
+## Symmetrische und Asymmetrische Verschlüsselung
+Tag 5, 22.09.2025
+
+### Symmetrische Verschlüsselung
+- Schlüsselaustauschproblem:
+- Ein schlüssel -> der Empfänger und Absender haben die gleiche Schlüssel
+- schnelleres Verfahren
+- Entschlüsselung: einen geheimen Schlüssel wird definiert, mit der gleichen Schlüssel verwendet der Empfänger den gleichen Algotihmus in umgekehrter Richtung, Ergebnis ist der Klartext
+- Beispiel: Cäsar, Vigenère
+
+### Asymmetrische Verschlüsselung
+- erzeugt ein Schlüsselpaar, besteht aus einem privaten und öffentlichen Schlüssel
+- der verschlüsselte Nachricht mit dem öffentlichen Schlüssel kann nur mit einem privaten Schlüssel entschlüsselt werden
+- es kann niemand die Nachricht entschlüsseln da man die private Schlüssel dazu benötigt
+- nur den Empfänger hat die private Schlüssel
+- öffentliche Schlüssel: verwendet zum verschlüsseln und überprüfung
+- langsameres Verfahren
+- verwendet in digitalen Kommunikationen
+- Beispiel: RSA, Rabin, Elgamal
+
+### Hyprid Verfahren
+
+
+
+
+
+
+
 
 
 
