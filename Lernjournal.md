@@ -428,6 +428,15 @@ Tag 6, 29.09.2025
 
 ### Ablagekonzept (IST-Zustand)
 
+| Gerät (Speicherort)  | Betriebssystem | Applikation | Art der Daten | Auf zentralem Server gespeichert? | User friendly privacy policy? | Folgen von Datenverlust (/Zugriffsverlust) | Folgen von Datendiebstahl | Backup vorhanden? | Art des Backups | Häufigkeit des Backups | Massnahmen |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| IPhone 14 | IOS | WhatsApp | Chats, Bilder, Videos | Ja, ausser die nicht zugestellte Nachrichten. | Nein | Ja, wertvolle Informationen und möglicherweise geschäftliche Daten gehen verloren ohne Backup. | Schlimm: Man teilt Freunde, Familie und andere vertrauliche Daten/Informationen. | Ja | iCloud | Täglich | Vertrauliche Informationen nicht versenden und WhatsApp weniger verwenden. |
+| IPhone 14 | IOS | Dateien | Dokumente (pdf, docx, etc.), Bilder, Videos | Ja | Ja | Nein, Freunde oder Familien keinen zugriff, auch wenn sind keine wichtigen Daten gespeichert. | Wichtige Daten/Dokumente gehen verloren. | Ja | iCloud Drive | N/A | Dateien nur gezielt freigeben, kein öffentlicher Link. |
+| IPhone 14 | IOS | Mail | Nachrichten, Anhänge, Kontakte | Ja | Ja, Datenschutzrichtlinie für Mail/Cloud | Ja, besonders bei geschäftlihcen oder sensiblen E-Mails. | Ja, bei Fremdzugriff. | Ja | iCloud | auto. täglich | Misstrauisch sein bei Links und Anhängen aus unbekannten Quellen |
+| IPad (9th Gen.) | Windows 11 | Kalender | Einladung, E-Mail, Anhänge, Links | Ja | Ja | fehler bei der Synchronisation/geringer Speicherplatz | Keine | Ja | iCloud | auto. täglich | regelmäßige Backups erstellen |
+| IPad (9th Gen.) | Windows 11 | Kalender | Einladung, E-Mail, Anhänge, Links | Ja | Ja | fehler bei der Synchronisation/geringer Speicherplatz | Keine | Ja | iCloud | auto. täglich | regelmäßige Backups erstellen |
+
+
 
 
 
