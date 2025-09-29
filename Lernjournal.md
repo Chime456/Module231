@@ -14,8 +14,7 @@ Tag 1, 18.08.2025
 Abc123 -> ca.1 sec  
 Açd*12kléDqRAD/6FJxF -> ca. 154000000 quadrillion Jahren
 
-Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen. Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann. Auf diesem [Link](https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/) kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.
-
+Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen. Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann. Auf diesem [Link](https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/) kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.  
 
 ## Gruppenarbeit
 *Thema: KI*  
@@ -423,9 +422,11 @@ Tag 5, 22.09.2025
 #### Symmetrische VerschlüsselungCäsar, Vigenègre, AES, OTPEs gibt einen Schlüssel der zum verschlüsseln und entschlüsseln verwendet wird. Dem Empfänger muss somit der Schlüssel der versendeten Nachricht bekannt sein. --> Schlüsselaustauschproblem, weil der Sender dem Empfänger nicht einfach so den Schlüssel senden, wenn dieser Kanal abgehört wird ist der Angreifer in Besits dieses Schlüssels.Man muss die Hybride Verschlüsselung nutzen--> Deutlich schneller--> Sicheherit verbesser mit länge**Ciphertext-Only-Angriff**Wenn man den Geheimtext abhöhren konnte --> Durch reines Ausprobieren rausfinden.** Know-Plaintext- Angriff**Wenn man den Geheimtext weissund einzeln Teile des Klartext, dann musst man ausprobieren bis es klappt.**Chosen-Plaintext-Angriff**Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)----------   2**Asymmetrische Verschlüsselung**2 * nÖffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren**Hybride Verschlüsselung**Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren
  
 
+------------------
+# Datenablage
+Tag 6, 29.09.2025
 
-
-
+### Ablagekonzept (IST-Zustand)
 
 
 
