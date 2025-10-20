@@ -419,9 +419,18 @@ Tag 5, 22.09.2025
 
 ### Hyprid Verfahren
 
-#### Symmetrische VerschlüsselungCäsar, Vigenègre, AES, OTPEs gibt einen Schlüssel der zum verschlüsseln und entschlüsseln verwendet wird. Dem Empfänger muss somit der Schlüssel der versendeten Nachricht bekannt sein. --> Schlüsselaustauschproblem, weil der Sender dem Empfänger nicht einfach so den Schlüssel senden, wenn dieser Kanal abgehört wird ist der Angreifer in Besits dieses Schlüssels.Man muss die Hybride Verschlüsselung nutzen--> Deutlich schneller--> Sicheherit verbesser mit länge**Ciphertext-Only-Angriff**Wenn man den Geheimtext abhöhren konnte --> Durch reines Ausprobieren rausfinden.** Know-Plaintext- Angriff**Wenn man den Geheimtext weissund einzeln Teile des Klartext, dann musst man ausprobieren bis es klappt.**Chosen-Plaintext-Angriff**Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)----------   2**Asymmetrische Verschlüsselung**2 * nÖffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren**Hybride Verschlüsselung**Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren
- 
+#### Symmetrische VerschlüsselungCäsar, Vigenègre, AES, OTPEs gibt einen Schlüssel der zum verschlüsseln und entschlüsseln verwendet wird. Dem Empfänger muss somit der Schlüssel der versendeten Nachricht bekannt sein. --> Schlüsselaustauschproblem, weil der Sender dem Empfänger nicht einfach so den Schlüssel senden, wenn dieser Kanal abgehört wird ist der Angreifer in Besits dieses Schlüssels.Man muss die Hybride Verschlüsselung nutzen--> Deutlich schneller--> Sicheherit verbesser mit länge
 
+**Ciphertext-Only-Angriff**  
+Wenn man den Geheimtext abhöhren konnte --> Durch reines Ausprobieren rausfinden.** Know-Plaintext- Angriff
+**Wenn man den Geheimtext weissund einzeln Teile des Klartext, dann musst man ausprobieren bis es klappt.  
+**Chosen-Plaintext-Angriff**  
+Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)----------2  
+**Asymmetrische Verschlüsselung**  
+2* nÖffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren  
+**Hybride Verschlüsselung**  
+Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren
+ 
 ------------------
 # Datenablage
 Tag 6, 29.09.2025
@@ -435,6 +444,10 @@ Tag 6, 29.09.2025
 | IPhone 14 | IOS | Mail | Nachrichten, Anhänge, Kontakte | Ja | Ja, Datenschutzrichtlinie für Mail/Cloud | Ja, besonders bei geschäftlihcen oder sensiblen E-Mails. | Ja, bei Fremdzugriff. | Ja | iCloud | auto. täglich | Misstrauisch sein bei Links und Anhängen aus unbekannten Quellen |
 | IPad (9th Gen.) | IOS | Kalender | Einladung, E-Mail, Anhänge, Links | Ja | Ja | fehler bei der Synchronisation/geringer Speicherplatz | Keine | Ja | iCloud | auto. täglich | regelmäßige Backups erstellen |
 | Lenovo E16 | Windows 11 | MS Teams | Chats, Dokumenten, Bilder, Video | Ja | Ja | Verlust wichtiger Projekt- und Arbeitsdokumente | Ja, sowohl schulisch als auch geschäftlich – für Unternehmen besonders kritisch. | nicht automatisch durch MS Teams selbst | SharePoint/OneDrive | N/A | Regelmäßige Überprüfung von externen Freigaben. |
+
+----------------
+# GIT & Ransomeware
+Tag 7, 20.10.2025
 
 
 
