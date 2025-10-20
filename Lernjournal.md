@@ -448,7 +448,12 @@ Tag 6, 29.09.2025
 ----------------
 # GIT & Ransomeware
 Tag 7, 20.10.2025
-
+GIT 
+git clone
+git status
+git add
+git diff
+git commit -m
 
 
 
