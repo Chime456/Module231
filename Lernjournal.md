@@ -448,16 +448,53 @@ Tag 6, 29.09.2025
 ----------------
 # GIT & Ransomeware
 Tag 7, 20.10.2025
-GIT 
-git clone
-git status
-git add
-git diff
-git commit -m
+### GIT 
+git clone: 
+git status: 
+git add:
+git diff:
+git commit -m: 
 
+### Ransomeware
+Ransomeware ist eine Schadsoftware, die den Zugriff auf den Computer oder Daten blockiert und ein Lösegeld(EN = ransom) fordert, die meist in Kryptowährung verlangt wird. Es verhindert den Zugang zu wichtigen Informationen.
 
+**Typische Merkmale**  
+- Man kann die Dateien nicht mehr öffnen oder benutzen
+- Sperrt den gesamten Bildschirm der Computer
+- Erpressernachricht, eine Nachricht/Fenster erklärt das die DAten verschlüsselt wurde(wie soll man "Lösegeld" zahlen)
+- kann sich selbständig auf andere Computer im gleichen Netzwerk ausbreiten (besonders gefährlich in Unternehmen oder Schulen)
+- Zeitdruck/Drohungen
 
+<img width="600" height="453" alt="image" src="https://github.com/user-attachments/assets/ed77597a-e567-40d8-a7fc-831db5222792" />
+WannaCry Ransomeware Attack 2017 Wikipedia, Screenshot der Lösegeldforderung, die auf einem infizierten System hinterlassen wurde
 
+**Infektionsweg**
+- Phishing E-Mail
+- bösartige Website/Downloads
+- erfolgt, indem Nutzer bösartige Links klicken oder unwissentlich Anhänge öffnen
+- Unsichere Remote-Zugriff (VPN-Zugänge mit schwachen Passwörter)
 
+**Angriffsschema**  
+**- Vier Phasen:** Erstkompromittierung, Verbreitung/Persistenz, Verschlüsselung, Lösegeldforderung  
+**- Erstkompromittierung:** Meist durch Klick auf schädliche Links oder das Herunterladen infizierter Dateien
+**- Verbreitung/Persistenz:** Malware legt oft eine Backdoor an, um im System zu bleiben und sich seitlich auszubreiten
+**- Verschlüsselung & Forderung:** Dateien werden mit starken Algorithmen gesperrt; anschließend folgt eine Lösegeldforderung (häufig in Krypto) meist mit Timer
+**- Wichtig:** Zahlung garantiert nicht die Wiederherstellung der Daten
 
+**Demo/Fake-Ransomware Sperrbildschirm**  
 
+<img width="530" height="349" alt="image" src="https://github.com/user-attachments/assets/1cccc40c-b84c-48c6-97f1-7cde2905f6e0" />
+
+- Oben: Grosses rotes Schloss oder Totenkopf
+- Headline, zentriert, grosse Schrift: "IHRE DATEIEN WURDEN VERSCHLÜSSELT"
+- Text: " Ihre Dateien wurden mit einem starken Algorithmus verschlüsselt.
+Um sie zurückzuerhalten, zahlen Sie 1 BTC an folgende Adresse:
+xyz... (Beispiel)
+Besuchen Sie die angegebene Tor-Adresse und geben Sie Ihren Entschlüsselungs-Code ein.
+Wenn Sie bis zum [Datum / Uhrzeit] nicht zahlen, werden Ihre Daten veröffentlicht."
+- Fussbereich/Seitlich: Countdowns-Grafik, Kontakinformation des Angreifers
+
+### Gruppenarbeit-Szenario
+- Ein Mitarbeiter klickt ausversehen auf einem infizierten Link. 
+- Das Gerät von Server und Netzwerk trennen und einen IT-Spezialist informieren.
+- Nicht zahlen, Daten werden nicht Entschlüsselt, Angreiffer ist es egal. Verlangt höchst wahrscheinlich noch mehr Geld.
