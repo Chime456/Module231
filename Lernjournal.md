@@ -3,14 +3,14 @@ Tag 1, 18.08.2025
 
 ## Inhaltsverzeichnis
 - [Gruppenarbeit](#gruppenarbeit)
-- [Schweizer Datenschutzgesetz](#schweizerdatenschutzgesetz)
+- [Schweizer Datenschutzgesetz](#schweizer-datenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
-- [CIA TRIAD](#ciatriad)
-- [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklistendesdatenschutzbeauftragtendeskantonszürichs)
-- [MERMAID](mermaid)
-- [Symmetrische und Asymmetrische Verschlüsselung](SymmetrischeundAsymmetrischeVerschlüsselung)
-- [Datenablage](Datenablage)
-- [GIT & Ransomeware](GIT&Ransomeware)
+- [CIA TRIAD](#cia-triad)
+- [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklisten-des-datenschutzbeauftragten-des-kantons-zürichs)
+- [MERMAID](#mermaid)
+- [Symmetrische und Asymmetrische Verschlüsselung](#symmetrische-und-asymmetrische-verschlüsselung)
+- [Datenablage](#datenablage)
+- [GIT & Ransomeware](#git--ransomeware)
 
 ----------
 
