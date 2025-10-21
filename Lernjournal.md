@@ -7,7 +7,7 @@ Tag 1, 18.08.2025
 - [LIZENZMODELLE](#lizenzmodelle)
 - [CIA TRIAD](#cia-triad)
 - [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklisten-des-datenschutzbeauftragten-des-kantons-zürichs)
-- [MERMAID](#mermaid)
+- [Authentifizierung](#authentifizierung)
 - [Symmetrische und Asymmetrische Verschlüsselung](#symmetrische-und-asymmetrische-verschlüsselung)
 - [Datenablage](#datenablage)
 - [GIT & Ransomeware](#git--ransomeware)
@@ -62,7 +62,7 @@ Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schn
 
 ## Schweizer Datenschutzgesetz  
 
-TAG 2, 25.08.2025
+Tag 2, 25.08.2025
 
 <details>
   <summary>Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?</summary>
@@ -253,74 +253,73 @@ Verfügbarkeit:
 * Es geht also hauptsächlich darum, Systemausfälle zu verhindern und den Zugriff innerhalb eines vereinbarten Zeitraums zu garantieren.  
 **Beispiel**: Zum Beispiel der Einsatz von Cloud-Diensten. Diese sorgen dafür, dass Daten und Anwendungen auch dann verfügbar bleiben, wenn ein Server ausfällt, da sie automatisch auf andere Server umleiten können.  
 
-------
-
 ## Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
 <details>
 <summary>Checkliste Computer-Sicherheit erhöhen</summary>
 Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)  
- - 01 Installieren Sie alle Updates  
-    - Ja, ich halte meine Geräte immer auf dem neusten Stand  
- - 02 Schalten Sie die Firewall und den Virenschutz ein  
-    - Ja, ich habe die aktiviert.   
- - 03 Verwenden Sie starke Passwörter  
-    - Ja, ich sichere lasse meine Passwörter von meinem Passwort-Manager generieren, diese sind sehr stark.  
-    - Ja, ich habe die Passwörter im meinem Passwort-Manager verwaltet.  
- - 04 Schützen Sie sich vor Phishing und anderen Bedrohungen  
-    - Nein, ich öffne keine verdächtige E-Mails oder SMS.  
-    - Nein, ich öffne keine Anhänge von unbekannten Absendern.  
-    - Nein, ich klicke auf keine unbekannten oder verdächtigen Links.  
-    - Nein, ich kontaktiere normalerweise nie auch im Zweifelsfall nicht, da ich die Absender/-in blockiere oder melde.  
-    - Ja, ich bin grundsätzlich misstrauisch, wenn sich bekannte melden und rufe nicht auf unbekannte Nummern zurück.  
-  - 05 Sicher surfen  
-    - Nein, kannte ich noch nicht, habe https://www.datenschutz.ch/meine-daten-schuetzen/firefox-browser-sicher-einstellen-2-2 besucht und mir angeschaut wie ich Chrome sicherstelle.  
-    - Ja, ich lösche die temporäre Internetdateien regelmässig.  
-  - 06 Datenschutzfreundliche Dienste nutzen  
-    - Ich habe bis jetzt Google-Suche benutzt, werde DuckDuckGo mal verwenden  
-  - 07 Daten sichern  
-    - Kannte ich noch nicht, habe mir die Anleitung zum [Backup erstellen mit Windows](https://www.heise.de/tipps-tricks/Backup-erstellen-mit-Windows-10-3858841.html) gelesen. Jetzt weiss ich wie man daten abspeichert.  
-    - Ja, ich habe davon gehört und dies umgesetzt  
-  - 08 Daten verschlüsseln und löschen  
-    - Ich habe diese [Seite](https://www.heise.de/download/product/partedmagic-47255) besucht und gelese. Das werde ich machen wenn ich mit der Lehre Fertig bin.  
-  - 09 Administratorkonto nur bei Bedarf nutzen  
-    - Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen  
-  - 10 Unberechtigte Zugriffe verhindern  
-    - Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.  
-    - Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.  
-    - Das automatische Gerätesperren habe ich nicht davon gewusst, werde das einmal aktivieren und testen.  
+- 01 Installieren Sie alle Updates  
+  Ja, ich halte meine Geräte immer auf dem neusten Stand  
+- 02 Schalten Sie die Firewall und den Virenschutz ein  
+  Ja, ich habe die aktiviert.   
+- 03 Verwenden Sie starke Passwörter  
+  Ja, ich sichere lasse meine Passwörter von meinem Passwort-Manager generieren, diese sind sehr stark.  
+  Ja, ich habe die Passwörter im meinem Passwort-Manager verwaltet.  
+- 04 Schützen Sie sich vor Phishing und anderen Bedrohungen  
+  Nein, ich öffne keine verdächtige E-Mails oder SMS.  
+  Nein, ich öffne keine Anhänge von unbekannten Absendern.  
+  Nein, ich klicke auf keine unbekannten oder verdächtigen Links.  
+  Nein, ich kontaktiere normalerweise nie auch im Zweifelsfall nicht, da ich die Absender/-in blockiere oder melde.  
+  Ja, ich bin grundsätzlich misstrauisch, wenn sich bekannte melden und rufe nicht auf unbekannte Nummern zurück.  
+- 05 Sicher surfen  
+  Nein, kannte ich noch nicht, habe https://www.datenschutz.ch/meine-daten-schuetzen/firefox-browser-sicher-einstellen-2-2 besucht und mir angeschaut wie ich Chrome sicherstelle.  
+  Ja, ich lösche die temporäre Internetdateien regelmässig.  
+- 06 Datenschutzfreundliche Dienste nutzen  
+  Ich habe bis jetzt Google-Suche benutzt, werde DuckDuckGo mal verwenden  
+- 07 Daten sichern  
+  Kannte ich noch nicht, habe mir die Anleitung zum [Backup erstellen mit Windows](https://www.heise.de/tipps-tricks/Backup-erstellen-mit-Windows-10-3858841.html) gelesen. Jetzt weiss ich wie man daten abspeichert.  
+  Ja, ich habe davon gehört und dies umgesetzt  
+- 08 Daten verschlüsseln und löschen  
+  Ich habe diese [Seite](https://www.heise.de/download/product/partedmagic-47255) besucht und gelese. Das werde ich machen wenn ich mit der Lehre Fertig bin.  
+- 09 Administratorkonto nur bei Bedarf nutzen  
+  Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen  
+- 10 Unberechtigte Zugriffe verhindern  
+  Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.  
+  Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.  
+  Das automatische Gerätesperren habe ich nicht davon gewusst, werde das einmal aktivieren und testen.  
 </details>
 
 <details>
 <summary>BYOD - für mehr Sicherheit</summary>
 Link: [BYOD - für mehr Sicherheit](https://www.datenschutz.ch/meine-daten-schuetzen/bring-your-own-device-byod-10-schritte-fuer-mehr-sicherheit)  
-  - 01 Befolgen Sie die Arbeitgeberregeln  
-    - Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.  
-  - 02 Wählen Sie eine sichere Authentifizierung  
-    - Ja, ich habe unterschiedliche starke Passwörter.  
-  - 03 Sperren Sie das Gerät bei Abwesenheit  
-    - Ja, ich sperre immer mein Gerät ab.  
-  - 04 Aktualisieren Sie die Software  
-    - Ja, ich halte meine Software immer auf dem neusten Stand.  
-  - 05 Verschlüsseln Sie die Daten  
-    - Ja, ich habe die Verschlüsselungsoption aktiviert.  
-  - 06 Löschen Sie das Gerät bei Verlust sofort  
-    - Bisher wurde mir noch kein Gerät gestohlen worden. Wenn doch weiss ich an wem ich mich wenden kann.  
-  - 07 Sichern Sie die Daten  
-    - Ja, ich sichere immer meine Daten.  
-  - 08 Meiden Sie öffentliche WLAN  
-    - Ja, ich meide öffentliche WLAN auch im Ausland.  
-  - 09 Installieren und aktivieren Sie Antivirensoftware  
-    - Ja, ich habe Antivierensoftware installiert und aktiviert.  
-  - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen  
-    - Ja, ich lade nur die offiziele App-Websiten herunter.  
+- 01 Befolgen Sie die Arbeitgeberregeln  
+  Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.  
+- 02 Wählen Sie eine sichere Authentifizierung  
+  Ja, ich habe unterschiedliche starke Passwörter.  
+- 03 Sperren Sie das Gerät bei Abwesenheit  
+  Ja, ich sperre immer mein Gerät ab.  
+- 04 Aktualisieren Sie die Software  
+  Ja, ich halte meine Software immer auf dem neusten Stand.  
+- 05 Verschlüsseln Sie die Daten  
+  Ja, ich habe die Verschlüsselungsoption aktiviert.  
+- 06 Löschen Sie das Gerät bei Verlust sofort  
+  Bisher wurde mir noch kein Gerät gestohlen worden. Wenn doch weiss ich an wem ich mich wenden kann.  
+- 07 Sichern Sie die Daten  
+  Ja, ich sichere immer meine Daten.  
+- 08 Meiden Sie öffentliche WLAN  
+  Ja, ich meide öffentliche WLAN auch im Ausland.  
+- 09 Installieren und aktivieren Sie Antivirensoftware  
+  Ja, ich habe Antivierensoftware installiert und aktiviert.  
+- 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen  
+  Ja, ich lade nur die offiziele App-Websiten herunter.  
 </details>
 
 ---------
 
-## MERMAID  
-TAG 4,08.09.2025
+## Authentifizierung
+Tag 4,08.09.2025 
 
+**Mermaid**
 ```mermaid
 mindmap
   root((Authentifizierung))
@@ -399,8 +398,7 @@ QYXAEULLUX
 
 Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 
-**Verschlüsselte Nachrichten mit Outlook**  
-ISO File  
+**Hash**
 
 --------
 ## Symmetrische und Asymmetrische Verschlüsselung
@@ -451,7 +449,7 @@ Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.
 --> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren
 
 ------------------
-# Datenablage
+## Datenablage
 Tag 6, 29.09.2025
 
 ### Ablagekonzept (IST-Zustand)
@@ -465,7 +463,7 @@ Tag 6, 29.09.2025
 | Lenovo E16 | Windows 11 | MS Teams | Chats, Dokumenten, Bilder, Video | Ja | Ja | Verlust wichtiger Projekt- und Arbeitsdokumente | Ja, sowohl schulisch als auch geschäftlich – für Unternehmen besonders kritisch. | nicht automatisch durch MS Teams selbst | SharePoint/OneDrive | N/A | Regelmäßige Überprüfung von externen Freigaben. |
 
 ----------------
-# GIT & Ransomeware
+## GIT & Ransomeware
 Tag 7, 20.10.2025
 ### GIT 
 git clone: 
