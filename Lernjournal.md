@@ -319,7 +319,6 @@ Link: [BYOD - für mehr Sicherheit](https://www.datenschutz.ch/meine-daten-schue
 ## Authentifizierung
 Tag 4,08.09.2025 
 
-**Mermaid**
 ```mermaid
 mindmap
   root((Authentifizierung))
@@ -361,8 +360,7 @@ graph TD;
   C-->D;
 ```
 
-**Verschlüsselungstechnologien**
-
+### Verschlüsselungstechnologien
 Zahlentheorie: Verschlüsselung im Internet
 RSA Algorithmus
 
@@ -376,9 +374,8 @@ Jeder Buchstabe wird um einer bestimmer Zahl verschoben.
 
 Bei der Methode von Julius Caesart sind 3 Buchstabe voraus.  
 __Beispiel_  
-Klartext:        Ich liebe dich  
-Geheimbotschaft: LFKOLHEHGLFK  
-
+Klartext: Ich liebe dich 
+Geheimbotschaft: LFK OLHEH GLFK  
 Entschlüsselung: 3 Buchstabe zurück  
 
 ### Vigenère Code
@@ -466,7 +463,7 @@ Tag 6, 29.09.2025
 ## GIT & Ransomeware
 Tag 7, 20.10.2025
 ### GIT 
-git clone: 
+git clone:
 git status: 
 git add:
 git diff:
