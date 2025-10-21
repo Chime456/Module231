@@ -7,7 +7,11 @@ Tag 1, 18.08.2025
 - [LIZENZMODELLE](#lizenzmodelle)
 - [CIA TRIAD](#ciatriad)
 - [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklistendesdatenschutzbeauftragtendeskantonszürichs)
-- 
+- [MERMAID](mermaid)
+- [Symmetrische und Asymmetrische Verschlüsselung](SymmetrischeundAsymmetrischeVerschlüsselung)
+- [Datenablage](Datenablage)
+- [GIT & Ransomeware](GIT&Ransomeware)
+
 ----------
 
 **Wie lange braucht es um diese Passwörter zu knacken?**
