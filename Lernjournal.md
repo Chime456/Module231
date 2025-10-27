@@ -11,6 +11,7 @@ Tag 1, 18.08.2025
 - [Symmetrische und Asymmetrische Verschlüsselung](#symmetrische-und-asymmetrische-verschlüsselung)
 - [Datenablage](#datenablage)
 - [GIT & Ransomeware](#git--ransomeware)
+- [Backup](#backup)
 
 ----------
 
@@ -521,6 +522,12 @@ Wenn Sie bis zum [Datum / Uhrzeit] nicht zahlen, werden Ihre Daten veröffentlic
 - Regelmäßige, getestete Wiederherstellungsprozesse (Restore-Tests) sind oft wichtiger als reine Backup-Existenz.
 - Transparenz & **Meldepflichten**: In vielen Jurisdiktionen (z. B. EU **DSGVO**) kann Datenverlust meldepflichtig sein — rechtlichen Rat frühzeitig einholen.
 - **Beweissicherung** (**Logs**, Images) ist wichtig für forensische Analyse und ggf. Strafverfolgung/Versicherung.
+
+----------
+# Backup
+Tag 8, 27.10.2025
+
+
 
 
 
