@@ -65,50 +65,8 @@ Bei dem Bild kann man sehen wie lange es dauert verschiedene Passwörter zu knac
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
 
-### Online Communities
-**Was ist Online Communities?**
-* 
-
-**Risiken und Chancen**  
-
-**Chancen**  
-* 
-
-**Risiken**
-* 
-
-**Individuen und Firmen von den Risiken schützen**
-
-**Individuen**
-* 
-
-**Firmen**
-* 
-
-### DeepFakes
-**Was ist DeepFakes?**
-* 
-
-**Risiken und Chancen**  
-
-**Chancen**  
-* 
-
-**Risiken**
-* 
-
-**Individuen und Firmen von den Risiken schützen**
-
-**Individuen**
-* 
-
-**Firmen**
-* 
-
-
 --------------
-
-## Schweizer Datenschutzgesetz  
+# Schweizer Datenschutzgesetz  
 Tag 2, 25.08.2025
 
 ### DSG Artikel  
