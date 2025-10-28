@@ -3,13 +3,16 @@ Tag 1, 18.08.2025
 
 ## Inhaltsverzeichnis
 - [Passwörter](#passwörter)
+- [Herausforderung in der digitalen Welt](#herausforderung-in-der-digitalen-welt)
+- [DSG Artikel](#dsg-artikel)
 - [Schweizer Datenschutzgesetz](#schweizer-datenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
 - [CIA TRIAD](#cia-triad)
 - [Checklisten des Datenschutzbeauftragten des Kantons Zürichs](#checklisten-des-datenschutzbeauftragten-des-kantons-zürichs)
+- [Minecraft Education](#minecraft-education)
 - [Authentifizierung](#authentifizierung)
 - [Symmetrische und Asymmetrische Verschlüsselung](#symmetrische-und-asymmetrische-verschlüsselung)
-- [Datenablage](#datenablage)
+- [Ablagekonzept](#ablagekonzept)
 - [GIT & Ransomeware](#git--ransomeware)
 - [Backup](#backup)
 
@@ -27,9 +30,8 @@ Bei dem Bild kann man sehen wie lange es dauert verschiedene Passwörter zu knac
 <img width="1020" height="731" alt="image" src="https://github.com/user-attachments/assets/791e19ff-9e0c-4a66-ad1d-b77ed0c6e6e0" />
 
 
-## Gruppenarbeit
-*Thema: KI*  
-
+# Herausforderung in der digitalen Welt
+### KI  
 **Was ist KI?**
 * Künstliche Intelligenz kann man zu Spracherkennung und Mustererkennung anwenden
 * Es übernimmt menschliche Aufgaben, obwohl wir als Mensch die Aufträge erledigen können
@@ -63,55 +65,107 @@ Bei dem Bild kann man sehen wie lange es dauert verschiedene Passwörter zu knac
 * KI als Assistenz einsetzen, nicht als Ersatz – Mensch bleibt in der Entscheidungsrolle
 * Kunden und Mitarbeiter klar informieren, wo und wie KI eingesetzt wird
 
------
+### Online Communities
+**Was ist Online Communities?**
+* 
+
+**Risiken und Chancen**  
+
+**Chancen**  
+* 
+
+**Risiken**
+* 
+
+**Individuen und Firmen von den Risiken schützen**
+
+**Individuen**
+* 
+
+**Firmen**
+* 
+
+### DeepFakes
+**Was ist DeepFakes?**
+* 
+
+**Risiken und Chancen**  
+
+**Chancen**  
+* 
+
+**Risiken**
+* 
+
+**Individuen und Firmen von den Risiken schützen**
+
+**Individuen**
+* 
+
+**Firmen**
+* 
+
+
+--------------
 
 ## Schweizer Datenschutzgesetz  
-
 Tag 2, 25.08.2025
 
+### DSG Artikel  
+Datenschutzgesetz regelt Datensicherheit und Datenschutz
 <details>
   <summary>Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?</summary>
-  
+  - Am 1. September 2023
 </details>
 
 <details>
   <summary>In welchenFällenmüssenVerantwortlichemitSitz imAusland einenSchweiz-Vertreterbenennen?</summary>
-  
+  -  Wenn sie personenbezogene Daten von Personen in der Schweiz verarbeiten und dies im Zusammenhang mit einem Angebot von Waren oder Dienstleistungen.
 </details>
 
 <details>
-  <summary>Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?</summary>
-  
+  <summary>Wer ist von der Pflicht zur Bestellung eines Schweiz-Vertreters ausgenommen?</summary>
+  - Behörden, öffentliche Stellen und Auftragsbearbeiter. Für private Verantwortliche gelten Ausnahmen nur, wenn die Datenbearbeitung nur gelegentlich, nicht umfangreich ist oder kein hohes Risiko darstellt.
 </details>
 
 <details>
   <summary>Welche Anforderungen sollte ein geeigneter Schweiz-Vertretermitbringen? Nennen Sie mindestens  drei.</summary>
-  
+  - sehr gute Kenntnisse des Schweizer Datenschutzrechts (DSG, DSV, VDSZ), praktische Erfahrung, Informations- und IT-Sicherheit
 </details>
 
 <details>
   <summary>Welche Aufgaben hat ein Schweiz-Vertreter gemäß Artikel 15 des DSG?</summary>
-  
+  - Er ist zentrale Anlaufstelle für Betroffene und den EDÖB, kann rechtswirksam Erklärungen abgeben oder empfangen
 </details>
 
 <details>
   <summary>Wer haftet bei Datenschutzverstößen — der Verantwortliche oder der Schweiz-Vertreter? Und in welchem Verhältnis?</summary>
-  
+  - Im Außenverhältnis haftet grundsätzlich der Verantwortliche
 </details>
 
 <details>
   <summary>Was regelt das Obligationenrecht (OR) in Bezug auf die vertragliche Beziehung zwischen Verantwortlichem und Schweiz-Vertreter?</summary>
-  
+  - Nach Art. 394 ff. OR ist der Vertreter zu sorgfältigem Handeln verpflichtet und muss persönliche und organisatorische Fähigkeit zur Wahrnehmung seiner Vertretungspflichten haben.
 </details>
 
 <details>
   <summary>Welche Bedeutung hat die Wahl eines fachlich und sprachlich geeigneten Schweiz-Vertreters – insbesondere im Hinblick auf die Reputation eines Unternehmens?</summary>
-  
+  - Der Schweiz-Vertreter ist erste Anlaufstelle bei Behörden und Betroffenen, daher beeinflusst seine juristische Professionalität und Kommunikationsfähigkeit.
 </details>
+
+## Datensicherheit & Datenschutz  
+**Datensicherheit**
+- Schutz von Daten vor Manipulation
+- Training der Mitarbeiter für einen sicheren Umgang mit schützenswerten Daten
+- Zugriffsschutz, Zugriffskontrolle, Zugangskontrolle
+
+**Datenschutz**
+- regelt den Umgang und Schutz mit personenbezogenen Daten
+- Gesetze und Vorschriften
 
 -----
 
-## LIZENZMODELLE
+# LIZENZMODELLE
 
 ### Lizenz  
 Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.  
@@ -237,9 +291,10 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 
 ------
 
-## CIA TRIAD
-
+# CIA TRIAD
 Tag 3, 01.09.2025
+
+<img width="1667" height="938" alt="image" src="https://github.com/user-attachments/assets/d1649e47-82b6-4754-9a98-45ecb8b1a272" />
 
 **C, Confidentiality**
 Vertraulichkeit:  
@@ -262,32 +317,42 @@ Verfügbarkeit:
 
 <details>
 <summary>Checkliste Computer-Sicherheit erhöhen</summary>
-Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)  
+Computer-Sicherheit erhöhen
+
 - 01 Installieren Sie alle Updates  
-  Ja, ich halte meine Geräte immer auf dem neusten Stand  
+  Ja, ich halte meine Geräte immer auf dem neusten Stand 
+
 - 02 Schalten Sie die Firewall und den Virenschutz ein  
-  Ja, ich habe die aktiviert.   
+  Ja, ich habe die aktiviert.
+
 - 03 Verwenden Sie starke Passwörter  
   Ja, ich sichere lasse meine Passwörter von meinem Passwort-Manager generieren, diese sind sehr stark.  
-  Ja, ich habe die Passwörter im meinem Passwort-Manager verwaltet.  
+  Ja, ich habe die Passwörter im meinem Passwort-Manager verwaltet.
+
 - 04 Schützen Sie sich vor Phishing und anderen Bedrohungen  
   Nein, ich öffne keine verdächtige E-Mails oder SMS.  
   Nein, ich öffne keine Anhänge von unbekannten Absendern.  
   Nein, ich klicke auf keine unbekannten oder verdächtigen Links.  
   Nein, ich kontaktiere normalerweise nie auch im Zweifelsfall nicht, da ich die Absender/-in blockiere oder melde.  
-  Ja, ich bin grundsätzlich misstrauisch, wenn sich bekannte melden und rufe nicht auf unbekannte Nummern zurück.  
+  Ja, ich bin grundsätzlich misstrauisch, wenn sich bekannte melden und rufe nicht auf unbekannte Nummern zurück.
+
 - 05 Sicher surfen  
   Nein, kannte ich noch nicht, habe https://www.datenschutz.ch/meine-daten-schuetzen/firefox-browser-sicher-einstellen-2-2 besucht und mir angeschaut wie ich Chrome sicherstelle.  
-  Ja, ich lösche die temporäre Internetdateien regelmässig.  
+  Ja, ich lösche die temporäre Internetdateien regelmässig.
+
 - 06 Datenschutzfreundliche Dienste nutzen  
-  Ich habe bis jetzt Google-Suche benutzt, werde DuckDuckGo mal verwenden  
+  Ich habe bis jetzt Google-Suche benutzt, werde DuckDuckGo mal verwenden
+
 - 07 Daten sichern  
   Kannte ich noch nicht, habe mir die Anleitung zum [Backup erstellen mit Windows](https://www.heise.de/tipps-tricks/Backup-erstellen-mit-Windows-10-3858841.html) gelesen. Jetzt weiss ich wie man daten abspeichert.  
-  Ja, ich habe davon gehört und dies umgesetzt  
+  Ja, ich habe davon gehört und dies umgesetzt
+
 - 08 Daten verschlüsseln und löschen  
-  Ich habe diese [Seite](https://www.heise.de/download/product/partedmagic-47255) besucht und gelese. Das werde ich machen wenn ich mit der Lehre Fertig bin.  
+  Ich habe diese [Seite](https://www.heise.de/download/product/partedmagic-47255) besucht und gelese. Das werde ich machen wenn ich mit der Lehre Fertig bin.
+
 - 09 Administratorkonto nur bei Bedarf nutzen  
-  Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen  
+  Bisher habe ich nie ien Administratorkonto benutzt, werde das in der Zukunft mal anschauen
+
 - 10 Unberechtigte Zugriffe verhindern  
   Ja, das Nutzen von VPN für öffentliches WLAN oder Hotspt kannte ich schon. Das hat mir meinen Vater mal kurz erklärt.  
   Ja, zu hause habe ich ein drahtloses Netzwerk, dazu haben wir ein starkes Passwort.  
@@ -296,34 +361,53 @@ Link: [Computer-Sicherheit erhöhen](https://www.datenschutz.ch/meine-daten-schu
 
 <details>
 <summary>BYOD - für mehr Sicherheit</summary>
-Link: [BYOD - für mehr Sicherheit](https://www.datenschutz.ch/meine-daten-schuetzen/bring-your-own-device-byod-10-schritte-fuer-mehr-sicherheit)  
+BYOD - für mehr Sicherheit
+  
 - 01 Befolgen Sie die Arbeitgeberregeln  
-  Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.  
-- 02 Wählen Sie eine sichere Authentifizierung  
-  Ja, ich habe unterschiedliche starke Passwörter.  
+  Ja, ich habe mich an informieren lassen und die Regeln und Vorschriften befolgt.
+  
+- 02 Wählen Sie eine sichere Authentifizierung    
+  Ja, ich habe unterschiedliche starke Passwörter.
+
 - 03 Sperren Sie das Gerät bei Abwesenheit  
-  Ja, ich sperre immer mein Gerät ab.  
+  Ja, ich sperre immer mein Gerät ab.
+
 - 04 Aktualisieren Sie die Software  
-  Ja, ich halte meine Software immer auf dem neusten Stand.  
+  Ja, ich halte meine Software immer auf dem neusten Stand.
+
 - 05 Verschlüsseln Sie die Daten  
-  Ja, ich habe die Verschlüsselungsoption aktiviert.  
+  Ja, ich habe die Verschlüsselungsoption aktiviert.
+
 - 06 Löschen Sie das Gerät bei Verlust sofort  
-  Bisher wurde mir noch kein Gerät gestohlen worden. Wenn doch weiss ich an wem ich mich wenden kann.  
+  Bisher wurde mir noch kein Gerät gestohlen worden. Wenn doch weiss ich an wem ich mich wenden kann.
+
 - 07 Sichern Sie die Daten  
-  Ja, ich sichere immer meine Daten.  
+  Ja, ich sichere immer meine Daten.
+ 
 - 08 Meiden Sie öffentliche WLAN  
-  Ja, ich meide öffentliche WLAN auch im Ausland.  
+  Ja, ich meide öffentliche WLAN auch im Ausland.
+
 - 09 Installieren und aktivieren Sie Antivirensoftware  
-  Ja, ich habe Antivierensoftware installiert und aktiviert.  
+  Ja, ich habe Antivierensoftware installiert und aktiviert.
+
 - 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen  
   Ja, ich lade nur die offiziele App-Websiten herunter.  
 </details>
 
----------
+## Minecraft Education  
+**Erkenntnise:**  
+- selbststudium, man lernt aus Fehlern
+- Lernen durch spielen verdunden, spass am lernen
 
-## Authentifizierung
+**Lehre:**  
+- Grundlagen vom Modul/Thema wird spielerisch erlernt
+- eigeninitiative
+
+---------
+# Authentifizierung
 Tag 4,08.09.2025 
 
+### Authentifizierung
 ```mermaid
 mindmap
   root((Authentifizierung))
@@ -365,6 +449,11 @@ graph TD;
   C-->D;
 ```
 
+### Autorisierung
+- auch Berechtigung
+- etwas zustimmen
+- festlegen, was der Benutzer tun darf -> Zugriff bestimmte Dateien
+
 ### Verschlüsselungstechnologien
 Zahlentheorie: Verschlüsselung im Internet
 RSA Algorithmus
@@ -400,7 +489,6 @@ QYXAEULLUX
 
 Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 
-**Hash**
 
 --------
 ## Symmetrische und Asymmetrische Verschlüsselung
@@ -454,7 +542,7 @@ Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.
 ## Datenablage
 Tag 6, 29.09.2025
 
-### Ablagekonzept (IST-Zustand)
+### Ablagekonzept
 
 | Gerät (Speicherort)  | Betriebssystem | Applikation | Art der Daten | Auf zentralem Server gespeichert? | User friendly privacy policy? | Folgen von Datenverlust (/Zugriffsverlust) | Folgen von Datendiebstahl | Backup vorhanden? | Art des Backups | Häufigkeit des Backups | Massnahmen |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -531,9 +619,84 @@ Wenn Sie bis zum [Datum / Uhrzeit] nicht zahlen, werden Ihre Daten veröffentlic
 # Backup
 Tag 8, 27.10.2025
 
- 
+**Warum machen wir ein Backup?**
+
+```mermaid
+mindmap
+  root((Warum wir ein Backup machen))
+    Datensicherheit
+      Schutz vor Datenverlust
+      Wiederherstellung nach Defekten
+      Absicherung gegen versehentliches Löschen
+    Schutz vor Bedrohungen
+      Malware & Viren (z. B. Ransomware)
+      Hackerangriffe
+      Sabotage oder Diebstahl
+    Technische Probleme
+      Festplattencrash
+      Softwarefehler
+      Stromausfall
+    Rechtliche & organisatorische Gründe
+      Einhaltung gesetzlicher Vorgaben
+      Nachvollziehbarkeit (z. B. bei Audits)
+      Schutz geschäftskritischer Daten
+    Zeit & Kosten sparen
+      Schnelle Wiederherstellung
+      Vermeidung von Ausfallzeiten
+      Geringere Folgekosten
+    Flexibilität & Mobilität
+      Zugriff von überall (Cloud-Backup)
+      Versionierung & Historie verfügbar
+  ```
+
+**Datensicherungsziele, Datenkompression**  
+**Datensicherungsziele**  
+- Verfügbarkeit, Integrität, Vertraulichkeit, Aktualität, Nachvollziehbarkeit
+- SSD, HDD, USB-Stick, NAS, Cloud-Speicher
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0f012cd-ab58-4b37-9f79-b1a01b4ed8db" />
 
 
+**Datenkompression**  
+- Speicherplatz sparen & Übertragungszeiten verringern​
+- Originaldaten bleiben exakt erhalten
+- Nicht vollständig wiederherstellbar (z.B. ZIP, Deduplizierung)
 
+**Vollsicherung, Differenzielle Sicherung, Inkrementelle Sicherung**  
+**Vollsicherung**  
+- Alle Daten vollständig gesichert​
+- komplette Kopie des Systems oder Verzeichnisses.​
+- einfache und schnelle Wiederherstellung
 
+**Differenzielle Sicherung**  
+- Änderungen seit letzter Sicherung​
+- Braucht wenig Speicherplatz​
+- Alle inkrementelle Sicherungen + Vollsicherung​
 
+**Inkrementelle Sicherung**  
+- Alle geänderten Daten seit letzten Vollsicherung​
+- Braucht immer mehr Speicherplatz​
+- Letzte differenzielle Sicherung + Vollsicherung​
+
+**Block-Level vs File-Level Backup**
+**Block**
+- Sichert einzelne Dateien und Verzeichnisse über das Dateisystem
+- nur bestimmte Ordner sichern (z.B. Home-Ornder)
+- Einfach zu verwalten und wiederherzustellen
+- Systeminformationen können verloren gehen
+
+**File**
+- Sichert die Daten auf der Ebene der Datenblöcke des Speichermediums
+- Erstellung eines kompletten Festplatten-Images
+- Ideal für vollständige Systemabbilder
+- Benötigt meist mehr Speicherplatz
+
+**Hot Backup vs Cold Backup**  
+- **Hot**: Durchführung, während das System oder Datenbank in Betrieb ist -> Sie werden gesichert, während Benutzer aktiv damit arbeiten.
+- **Einsatzwerke**: Online-Banking Systeme, E-Commerce Websiten (z.B. Zalando)
+- **Cold**: Wird gemacht, wenn das System vollständig heruntergefahren oder nicht aktiv ist -> Im Ruhestand durchführen
+- **Einsatzwerke**: Unternehmensdatenbank in Wartungszeiten, Server vor großen Systemupdates
+
+**Datensicherungsstrategie**  
+- Häufigkeit: weniger wichtig -> wöchentlich, ansonsten täglich  
+- verschiedene Datenträger: 3, 2, 1 Regel
