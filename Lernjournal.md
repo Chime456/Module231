@@ -2,7 +2,7 @@
 Tag 1, 18.08.2025
 
 ## Inhaltsverzeichnis
-- [Gruppenarbeit](#gruppenarbeit)
+- [Passwörter](#passwörter)
 - [Schweizer Datenschutzgesetz](#schweizer-datenschutzgesetz)
 - [LIZENZMODELLE](#lizenzmodelle)
 - [CIA TRIAD](#cia-triad)
@@ -14,14 +14,18 @@ Tag 1, 18.08.2025
 - [Backup](#backup)
 
 ----------
-
+# Passwörter
 **Wie lange braucht es um diese Passwörter zu knacken?**
 
 Abc123 -> ca.1 sec  
 Açd*12kléDqRAD/6FJxF -> ca. 154000000 quadrillion Jahren
 
 Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen.  
-Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann. Auf diesem [Link](https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/) kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.  
+Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann.  
+
+Bei dem Bild kann man sehen wie lange es dauert verschiedene Passwörter zu knacken und wie man es am besten schreibt.
+<img width="1020" height="731" alt="image" src="https://github.com/user-attachments/assets/791e19ff-9e0c-4a66-ad1d-b77ed0c6e6e0" />
+
 
 ## Gruppenarbeit
 *Thema: KI*  
@@ -527,18 +531,9 @@ Wenn Sie bis zum [Datum / Uhrzeit] nicht zahlen, werden Ihre Daten veröffentlic
 # Backup
 Tag 8, 27.10.2025
 
-
-
-
-
-
-
-
-
-
-
-
-
  
+
+
+
 
 
